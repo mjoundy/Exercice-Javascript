@@ -1,0 +1,10 @@
+form{
+    display: flex;
+    gap: 15px;
+}
+button{
+    height: fit-content;
+}
+#password:hover{
+    background-color: rgb(38, 238, 238);
+}
